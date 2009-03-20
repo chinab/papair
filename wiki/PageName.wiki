@@ -1,0 +1,12 @@
+#summary Welcome
+
+= Introduction =
+
+Papair G-Edition ERP is a port of webERP to Python for use with the Google App Engine platform.
+
+This project is sponsered by Papair from http://www.papair.com
+
+
+= Details =
+
+This is a new project and as such is in need of contributors.
