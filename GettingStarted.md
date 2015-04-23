@@ -1,0 +1,24 @@
+# Introduction #
+
+Be sure to download webERP from http://www.webERP.org first as this is a port of webERP from PHP to Python for the Google App Engine.
+
+You will also need the Google App Engine SDK available from http://code.google.com/appengine/downloads.html
+
+All form interfaces are made using extJS and prototype.js
+
+# Details #
+
+Be sure to initial the section after you completed it.
+
+To Do - Core
+  * extJS interface from HTML to Python
+  * Financial Module
+  * Sales A/R Module
+  * Purchase A/P Module
+  * Banking Module
+  * Inventory Module
+  * Production Module
+  * Reports Module
+  * Administration Module
+  * Dashboard using Google Visualization
+  * Welcome page
